@@ -34,7 +34,11 @@
 
 &nbsp; &nbsp; \- 1993
 
-&nbsp; &nbsp; $~~$ Whitney left Morgan Stanley and co-founded Kx Systems with Janet Lustgarten, to commercialize his k programming language. According to Paul Ford's 2015 cover-story for Businessweek, k is a programming language that is "famous for its brevity." The company signed an exclusive agreement with Union Bank of Switzerland and Whitney developed a variety of trading applications using k until the contract expired. At the outset of the contract Whitney developed the kdb database built on k.
+&nbsp; &nbsp; $~~$ Whitney left Morgan Stanley and co-founded Kx Systems with Janet Lustgarten, to commercialize his k programming language. According
+
+&nbsp; &nbsp; $~~$ to Paul Ford's 2015 cover-story for Businessweek, k is a programming language that is "famous for its brevity." The company signed an
+
+&nbsp; &nbsp; $~~$ exclusive agreement with Union Bank of Switzerland and Whitney developed a variety of trading applications using k until the contract expired. At the outset of the contract Whitney developed the kdb database built on k.
 
 &nbsp; &nbsp; \- 2003
 
