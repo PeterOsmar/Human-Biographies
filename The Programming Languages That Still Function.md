@@ -8,4 +8,4 @@
 
 &nbsp; &nbsp; **History**
 
-&nbsp; &nbsp; $~~$ \- 11 years old
+&nbsp; &nbsp; \- 11 years old
