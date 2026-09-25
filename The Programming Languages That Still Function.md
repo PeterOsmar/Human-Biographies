@@ -49,3 +49,5 @@
 &nbsp; &nbsp; \- 2018
 
 &nbsp; &nbsp; $~~$ First Derivatives bought out Whitney and Lustgarten's minority shares of Kx Systems. Whitney and Lustgarten then founded Shakti.
+
+&nbsp; &nbsp; **Sources**
