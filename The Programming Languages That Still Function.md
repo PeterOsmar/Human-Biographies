@@ -55,3 +55,5 @@
 &nbsp; &nbsp; \- A Conversation with Arthur Whitney
 
 &nbsp; &nbsp; $~~$ *Category*: Interview
+
+&nbsp; &nbsp; $~~$ *Interview members*: Arthur Whitney and Bryan Cantrill
