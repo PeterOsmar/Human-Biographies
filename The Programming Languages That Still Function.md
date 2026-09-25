@@ -14,6 +14,6 @@
 
 &nbsp; &nbsp; \- Early 1980s
 
-&nbsp; &nbsp; $~~$ Whitney studied pure mathematics at the graduate level at the University of Toronto. He then worked at Stanford University.
+&nbsp; &nbsp; $~~$ Whitney studied pure mathematics at the graduate level at the University of Toronto. He then worked at Stanford University. He
 
-&nbsp; &nbsp; $~~$ He later worked extensively with APL, first at I. P. Sharp Associates alongside Ken Iverson and Roger Hui among others. Whitney is recognized as having had an "enduring and significant influence on APL" and he co-authored papers with both Ken Iverson and Roger Hui. He also wrote the initial prototype of J, a terse and macro-heavy single page of code, in one afternoon, which then served as the model for J implementor, Roger Hui, and was responsible for suggesting the rank operators in J.
+&nbsp; &nbsp; $~~$ later worked extensively with APL, first at I. P. Sharp Associates alongside Ken Iverson and Roger Hui among others. Whitney is recognized as having had an "enduring and significant influence on APL" and he co-authored papers with both Ken Iverson and Roger Hui. He also wrote the initial prototype of J, a terse and macro-heavy single page of code, in one afternoon, which then served as the model for J implementor, Roger Hui, and was responsible for suggesting the rank operators in J.
