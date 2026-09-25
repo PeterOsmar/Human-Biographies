@@ -41,3 +41,7 @@
 &nbsp; &nbsp; $~~$ an exclusive agreement with Union Bank of Switzerland and Whitney developed a variety of trading applications using k until the
 
 &nbsp; &nbsp; $~~$ contract expired. At the outset of the contract Whitney developed the kdb database built on k.
+
+&nbsp; &nbsp; \- 2003
+
+&nbsp; &nbsp; $~~$ Kx Systems released q, a new vector language that built upon k and the kdb+ database developed by Whitney.
