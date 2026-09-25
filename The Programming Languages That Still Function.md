@@ -18,7 +18,9 @@
 
 &nbsp; &nbsp; $~~$ worked extensively with APL, first at I. P. Sharp Associates alongside Ken Iverson and Roger Hui among others. Whitney is recognized as
 
-&nbsp; &nbsp; $~~$ having had an "enduring and significant influence on APL" and he co-authored papers with both Ken Iverson and Roger Hui. He also wrote the initial prototype of J, a terse and macro-heavy single page of code, in one afternoon, which then served as the model for J implementor, Roger Hui, and was responsible for suggesting the rank operators in J.
+&nbsp; &nbsp; $~~$ having had an "enduring and significant influence on APL" and he co-authored papers with both Ken Iverson and Roger Hui. He also wrote
+
+&nbsp; &nbsp; $~~$ the initial prototype of J, a terse and macro-heavy single page of code, in one afternoon, which then served as the model for J implementor, Roger Hui, and was responsible for suggesting the rank operators in J.
 
 &nbsp; &nbsp; \- 1988
 
