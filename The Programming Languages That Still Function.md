@@ -5,3 +5,7 @@
 &nbsp; &nbsp; **Identity**: Canadian computer scientist most notable for developing 3 programming languages inspired by APL, A+, k, and q, and for
 
 &nbsp; &nbsp; $~~~~~~~~~~~~~~~~~$ co-founding the U.S. companies Kx Systems and Shakti Software
+
+&nbsp; &nbsp; **History**
+
+&nbsp; &nbsp; $~~$ \- 11 years old
