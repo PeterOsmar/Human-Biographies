@@ -26,11 +26,7 @@
 
 &nbsp; &nbsp; \- 1988
 
-&nbsp; &nbsp; $~~$ Whitney began working at Morgan Stanley developing financial applications. At Morgan Stanley, Whitney developed A+ to facilitate
-
-&nbsp; &nbsp; $~~$ migrating APL applications from IBM mainframe computers to a network of Sun Microsystems workstations. A+ had a smaller set of
-
-&nbsp; &nbsp; $~~$ primitive functions and was designed for speed, and to handle large sets of time series data.
+&nbsp; &nbsp; $~~$ Whitney began working at Morgan Stanley developing financial applications. At Morgan Stanley, Whitney developed A+ to facilitate migrating APL applications from IBM mainframe computers to a network of Sun Microsystems workstations. A+ had a smaller set of primitive functions and was designed for speed, and to handle large sets of time series data.
 
 &nbsp; &nbsp; \- 1993
 
