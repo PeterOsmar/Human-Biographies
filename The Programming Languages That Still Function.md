@@ -54,4 +54,4 @@
 
 &nbsp; &nbsp; \- A Conversation with Arthur Whitney
 
-&nbsp; &nbsp; $~$ *Category*: Interview
+&nbsp; &nbsp; $~~$ *Category*: Interview
