@@ -52,4 +52,4 @@
 
 &nbsp; &nbsp; **Sources**
 
-&nbsp; &nbsp; 1\. A Conversation with Arthur Whitney
+&nbsp; &nbsp; \- A Conversation with Arthur Whitney
