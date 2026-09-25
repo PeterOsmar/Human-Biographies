@@ -45,3 +45,7 @@
 &nbsp; &nbsp; \- 2003
 
 &nbsp; &nbsp; $~~$ Kx Systems released q, a new vector language that built upon k and the kdb+ database developed by Whitney.
+
+&nbsp; &nbsp; \- 2018
+
+&nbsp; &nbsp; $~~$ First Derivatives bought out Whitney and Lustgarten's minority shares of Kx Systems. Whitney and Lustgarten then founded Shakti.
