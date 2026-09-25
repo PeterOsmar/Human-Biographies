@@ -23,3 +23,11 @@
 &nbsp; &nbsp; $~~$ Roger Hui. He also wrote the initial prototype of J, a terse and macro-heavy single page of code, in one afternoon, which then
 
 &nbsp; &nbsp; $~~$ served as the model for J implementor, Roger Hui, and was responsible for suggesting the rank operators in J.
+
+&nbsp; &nbsp; \- 1988
+
+&nbsp; &nbsp; $~~$ Whitney began working at Morgan Stanley developing financial applications. At Morgan Stanley, Whitney developed A+ to facilitate
+
+&nbsp; &nbsp; $~~$ migrating APL applications from IBM mainframe computers to a network of Sun Microsystems workstations. A+ had a smaller set of
+
+&nbsp; &nbsp; $~~$ primitive functions and was designed for speed, and to handle large sets of time series data.
