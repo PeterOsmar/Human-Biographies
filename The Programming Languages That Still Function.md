@@ -31,3 +31,13 @@
 &nbsp; &nbsp; $~~$ migrating APL applications from IBM mainframe computers to a network of Sun Microsystems workstations. A+ had a smaller set of
 
 &nbsp; &nbsp; $~~$ primitive functions and was designed for speed, and to handle large sets of time series data.
+
+&nbsp; &nbsp; \- 1993
+
+&nbsp; &nbsp; $~~$ Whitney left Morgan Stanley and co-founded Kx Systems with Janet Lustgarten, to commercialize his k programming language. According
+
+&nbsp; &nbsp; $~~$ to Paul Ford's 2015 cover-story for Businessweek, k is a programming language that is "famous for its brevity." The company signed
+
+&nbsp; &nbsp; $~~$ an exclusive agreement with Union Bank of Switzerland and Whitney developed a variety of trading applications using k until the
+
+&nbsp; &nbsp; $~~$ contract expired. At the outset of the contract Whitney developed the kdb database built on k.
