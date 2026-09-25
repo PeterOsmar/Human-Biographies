@@ -9,3 +9,5 @@
 &nbsp; &nbsp; **History**
 
 &nbsp; &nbsp; \- 11 years old
+
+&nbsp; &nbsp; $~~$ He was first exposed to APL when he was 11 by its inventor, Ken Iverson, a family friend.
