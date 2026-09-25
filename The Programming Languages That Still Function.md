@@ -51,3 +51,5 @@
 &nbsp; &nbsp; $~~$ First Derivatives bought out Whitney and Lustgarten's minority shares of Kx Systems. Whitney and Lustgarten then founded Shakti.
 
 &nbsp; &nbsp; **Sources**
+
+&nbsp; &nbsp; 1\. A Conversation with Arthur Whitney
